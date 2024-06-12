@@ -4,5 +4,5 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     // Perform your form submission logic here (e.g., AJAX request)
     
     // Redirect back to the original page after form submission
-    window.location.href = 'https://sprempeh.github.io/Ngo_model/';
+    window.location.href = 'google.com';
   });
